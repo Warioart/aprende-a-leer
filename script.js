@@ -1,6 +1,6 @@
 
 const questions = [
-  { word: "manzana", image: "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg", options: ["manzana", "pera"] },
+  { word: "manzana", image: "https://i.pinimg.com/736x/1f/96/be/1f96be83ffd0c7f1cd54cc25c7aad1c5.jpg", options: ["manzana", "pera"] },
   { word: "gato", image: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg", options: ["perro", "gato"] },
   { word: "avion", image: "https://upload.wikimedia.org/wikipedia/commons/3/34/Airplane_silhouette.png", options: ["barco", "avion"] },
   { word: "perro", image: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Collage_of_Nine_Dogs.jpg", options: ["gato", "perro"] },
